@@ -2,7 +2,7 @@
 ## Table of Contents
 * [Description](#Description)
 * [Architecture](#Architecture)
-* [Usability](#Styling)
+* [Usability](#Usability)
 * [HTML_Structure](#HTML_Structure)
 * [Navigation](#Navigation)
 * [Comments](#Comments)
