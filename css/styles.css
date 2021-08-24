@@ -10,9 +10,6 @@
 
 
 /* ---- Base Rules ---- */
-html {
-    scroll-behavior: smooth;
-}
 body {
     background: rgb(136,203,171);
     background: linear-gradient(0deg, rgba(136,203,171,1) 0%, rgba(0,13,60,1) 100%);
@@ -89,6 +86,11 @@ section {
     background: #333;
     color: #fff;
     cursor: pointer;
+    transition: ease 0.3s all;
+}
+.active-link {
+    background: #333;
+    color: #fff;
     transition: ease 0.3s all;
 }
 /* Header Styles */
